@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "categoria": "Trabalho",
+    "titulo": "Carteira de Trabalho Digital",
+    "palavras_chave": ["carteira de trabalho", "carteira de trabalho digital", "ctps", "carteira digital"],
+    "resposta": "A Carteira de Trabalho Digital é um aplicativo gratuito. Você entra com a sua conta gov.br e consulta seus contratos de trabalho.",
+    "documentos": ["CPF", "Conta gov.br"],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou portal gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "08/11/2026"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Fazer o CPF",
+    "palavras_chave": ["cpf", "tirar cpf", "fazer cpf", "inscricao no cpf"],
+    "resposta": "O CPF pode ser pedido no site da Receita Federal e em órgãos parceiros.",
+    "documentos": ["Documento de identificação (como RG ou certidão de nascimento)"],
+    "onde": "Site da Receita Federal ou órgãos parceiros",
+    "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+    "verificado_em": "08/11/2026"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos",
+    "titulo": "Tirar o título de eleitor",
+    "palavras_chave": ["titulo de eleitor", "titulo eleitoral", "tirar titulo", "eleitor", "votar"],
+    "resposta": "Quem tem 16 ou 17 anos pode tirar o título (é opcional). A partir dos 18 anos o voto é obrigatório. O pedido começa no Título Net, no site do TSE, e depois pode ser preciso ir ao Cartório Eleitoral.",
+    "documentos": ["Documento oficial com foto", "Comprovante de residência", "Certificado de quitação do serviço militar (para homens, quando exigido)"],
+    "onde": "Site do TSE (Título Net) ou Cartório Eleitoral",
+    "fonte": "https://www.tse.jus.br/comunicacao/noticias/2022/Dezembro/ainda-nao-tem-titulo-de-eleitor-emita-o-documento-de-forma-gratuita-e-sem-sair-de-casa",
+    "verificado_em": "08/11/2026"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos",
+    "titulo": "Criar a conta gov.br",
+    "palavras_chave": ["conta gov br", "gov br", "criar conta gov", "senha gov"],
+    "resposta": "A conta gov.br dá acesso a vários serviços digitais do governo, como a Carteira de Trabalho Digital. Você cria a conta no site ou no aplicativo gov.br usando o seu CPF.",
+    "documentos": ["CPF"],
+    "onde": "Site ou aplicativo gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br",
+    "verificado_em": "08/11/2026"
+  },
+  {
+    "id": 5,
+    "categoria": "Trabalho",
+    "titulo": "Registro do contrato de trabalho (carteira assinada)",
+    "palavras_chave": ["carteira assinada", "contrato de trabalho", "clt", "registro na carteira", "primeiro emprego"],
+    "resposta": "Quando você é contratado com carteira assinada (CLT), a empresa deve registrar o seu contrato. Você pode conferir esse registro na Carteira de Trabalho Digital.",
+    "documentos": ["CPF", "Documento com foto"],
+    "onde": "Na empresa que contratou e na Carteira de Trabalho Digital",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/carteira-de-trabalho/perguntas-frequentes-carteira-de-trabalho-digital/",
+    "verificado_em": "08/11/2026"
+  },
+  {
+    "id": 6,
+    "categoria": "Trabalho",
+    "titulo": "Jovem Aprendiz",
+    "palavras_chave": ["jovem aprendiz", "aprendiz", "menor aprendiz", "contrato de aprendizagem"],
+    "resposta": "O contrato de aprendizagem é para jovens de 14 a 24 anos. Ele junta trabalho e curso de formação profissional, com carteira assinada.",
+    "documentos": ["Documento com foto", "CPF", "Comprovante de matrícula ou de conclusão da escola"],
+    "onde": "Empresas que contratam aprendizes e entidades de formação profissional",
+    "fonte": "https://www.gov.br/pt-br/servicos/realizar-cadastro-dos-aprendizes",
+    "verificado_em": "08/11/2026"
+  },
+  {
+    "id": 7,
+    "categoria": "Trabalho",
+    "titulo": "Procurar vagas de emprego pelo Sine",
+    "palavras_chave": ["sine", "procurar emprego", "vagas de emprego", "achar emprego", "buscar vaga"],
+    "resposta": "O Sine ajuda a procurar vagas e a fazer o cadastro de trabalhador. O atendimento pode ser feito pela internet ou em um posto do Sine.",
+    "documentos": ["CPF", "Documento com foto", "Carteira de Trabalho (se tiver)"],
+    "onde": "Posto do Sine da sua cidade ou serviços online do governo federal",
+    "fonte": "https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine",
+    "verificado_em": "08/11/2026"
+  },
+  {
+    "id": 8,
+    "categoria": "Documentos",
+    "titulo": "Alistamento militar",
+    "palavras_chave": ["alistamento militar", "alistamento", "reservista", "servico militar", "certificado de reservista"],
+    "resposta": "Homens devem fazer o alistamento militar no ano em que completam 18 anos. O alistamento pode ser feito pela internet ou em uma Junta de Serviço Militar.",
+    "documentos": ["Certidão de Nascimento", "Certidão de Casamento", "Identidade ou Carteira de Trabalho", "Comprovante de Residência"],
+    "onde": "Site do Serviço Militar ou Junta de Serviço Militar",
+    "fonte": "https://www.gov.br/pt-br/servicos/alistar-se-no-servico-militar-obrigatorio",
+    "verificado_em": "08/11/2026"
+  },
+  {
+    "id": 9,
+    "categoria": "Direitos",
+    "titulo": "Direitos de quem tem carteira assinada",
+    "palavras_chave": ["direitos trabalhistas", "direitos do trabalhador", "ferias", "decimo terceiro", "13 salario"],
+    "resposta": "Quem trabalha com carteira assinada tem direito, entre outros, a férias com adicional de 1/3, 13º salário, FGTS e descanso semanal.",
+    "documentos": ["Holerite (contracheque) e contrato, se quiser conferir os valores"],
+    "onde": "Na empresa, no sindicato da categoria ou no Ministério do Trabalho",
+    "fonte": "https://www.jusbrasil.com.br/artigos/conheca-os-20-direitos-de-todos-os-trabalhadores/476022278",
+    "verificado_em": "08/11/2026"
+  },
+  {
+    "id": 10,
+    "categoria": "Direitos",
+    "titulo": "Consultar o FGTS",
+    "palavras_chave": ["fgts", "fundo de garantia", "saldo do fgts", "consultar fgts"],
+    "resposta": "O FGTS é um dinheiro que a empresa deposita todo mês em uma conta no seu nome na Caixa. Você pode consultar o saldo pelo aplicativo FGTS.",
+    "documentos": ["CPF"],
+    "onde": "Aplicativo FGTS ou agências da Caixa",
+    "fonte": "https://www.caixa.gov.br/beneficios-trabalhador/fgts/Paginas/default.aspx",
+    "verificado_em": "08/11/2026"
+  },
+  {
+    "id": 11,
+    "categoria": "Direitos",
+    "titulo": "Consultar contribuições no Meu INSS",
+    "palavras_chave": ["meu inss", "inss", "cnis", "contribuicao", "extrato do inss", "aposentadoria"],
+    "resposta": "O INSS registra as suas contribuições para a aposentadoria. Pelo Meu INSS você consulta o seu histórico de contribuições (extrato CNIS).",
+    "documentos": ["CPF", "Conta gov.br"],
+    "onde": "Site ou aplicativo Meu INSS, ou telefone 135",
+    "fonte": "https://www.gov.br/pt-br/servicos/emitir-extrato-de-contribuicao-cnis",
+    "verificado_em": "08/11/2026"
+  },
+  {
+    "id": 12,
+    "categoria": "Direitos",
+    "titulo": "Denunciar uma empresa que não respeita seus direitos",
+    "palavras_chave": ["denuncia", "denunciar empresa", "nao assinaram minha carteira", "empresa nao pagou", "sindicato"],
+    "resposta": "Se a empresa não respeita seus direitos (por exemplo, não assina a carteira ou não paga o salário), você pode fazer uma denúncia ou procurar o sindicato da sua categoria.",
+    "documentos": ["Documento com foto", "Provas do trabalho, se tiver (mensagens, holerites, fotos)"],
+    "onde": "Ministério Público do Trabalho, Ministério do Trabalho ou sindicato",
+    "fonte": "https://mpt.mp.br/pgt/servicos/servico-denuncie",
+    "verificado_em": "08/11/2026"
+  }
+]
