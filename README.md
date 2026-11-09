@@ -71,10 +71,10 @@ Não houve integração com outras disciplinas.
 - https://www.tse.jus.br/comunicacao/noticias/2022/Dezembro/ainda-nao-tem-titulo-de-eleitor-emita-o-documento-de-forma-gratuita-e-sem-sair-de-casa
 - https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br
 - https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/carteira-de-trabalho/perguntas-frequentes-carteira-de-trabalho-digital/
-- https://www.gov.br/pt-br/servicos/realizar-cadastro-dos-aprendizes
+- https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/aprendizagem-profissional
 - https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine
 - https://www.gov.br/pt-br/servicos/alistar-se-no-servico-militar-obrigatorio
-- https://www.jusbrasil.com.br/artigos/conheca-os-20-direitos-de-todos-os-trabalhadores/476022278
+- https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
 - https://www.caixa.gov.br/beneficios-trabalhador/fgts/Paginas/default.aspx
 - https://www.gov.br/pt-br/servicos/emitir-extrato-de-contribuicao-cnis
 - https://mpt.mp.br/pgt/servicos/servico-denuncie
