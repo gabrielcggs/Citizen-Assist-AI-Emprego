@@ -1,0 +1,15 @@
+data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos,nota_facilidade
+2026-11-09 23:11:19,pergunta,Me ajude sobre o meu FGTS,10,True,True,2,40.8,5
+2026-11-09 23:12:11,pergunta,Qual o significado de CPF?,2,True,True,1,52.1,5
+2026-11-09 23:12:41,pergunta,Como funciona a carteira de trabalho digital?,1,True,True,1,30.6,5
+2026-11-09 23:12:54,categoria,,11,True,True,1,6.8,5
+2026-11-09 23:13:07,categoria,,12,True,True,1,13.3,5
+2026-11-09 23:13:15,categoria,,3,True,True,1,3.7,5
+2026-11-09 23:13:19,categoria,,8,True,True,1,4.0,5
+2026-11-13 20:37:41,pergunta,Precisa de carteira de trabalho?,1,True,True,2,103.3,5
+2026-11-13 20:38:11,pergunta,Cpf é obrigatório no trabalho?,2,True,False,1,30.1,5
+2026-11-13 20:38:45,pergunta,O que é FGTS?,10,True,True,1,34.0,5
+2026-11-13 20:39:50,categoria,,9,True,True,1,33.7,5
+2026-11-15 13:13:50,pergunta,preciso apresentar cpf ?,2,True,False,2,257.4,2
+2026-11-15 13:14:30,pergunta,preciso apresentar cpf para me candidadtar a vaga de produtor de eventos ?,2,True,False,1,40.1,2
+2026-11-15 13:16:39,categoria,,6,True,False,1,109.4,2

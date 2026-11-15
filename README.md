@@ -82,18 +82,30 @@ Não houve integração com outras disciplinas.
 
 
 ## Resultado do teste com usuários
-(PREENCHER depois de testar com pelo menos 3 pessoas de fora do grupo, somando 10 atendimentos ou mais.
-Não escreva nomes nem dados das pessoas.)
+O teste foi feito com 3 pessoas de fora do grupo, somando 14 atendimentos
+(perguntas em texto livre e navegação por categorias). Nenhum nome ou dado
+pessoal foi registrado.
 
-- Número de pessoas: 
-- Número de atendimentos: 
-- Resposta encontrada (%): 
-- Taxa de acerto (%): 
-- Tempo médio para encontrar: 
-- Tentativas por atendimento: 
-- Facilidade de uso (1 a 5): 
-- Dúvidas sem solução: 
-- Melhoria feita a partir do teste: 
+- Número de pessoas: 3
+- Número de atendimentos: 14
+- Resposta encontrada (%): 100%
+- Taxa de acerto (%): 71,4%
+- Tempo médio para encontrar: 54,2 s
+- Tentativas por atendimento: 1,2
+- Facilidade de uso (1 a 5): 4,4 (notas dadas: 5, 5 e 2)
+- Dúvidas sem solução:
+  - "Cpf é obrigatório no trabalho?"
+  - "preciso apresentar cpf ?"
+  - "preciso apresentar cpf para me candidadtar a vaga de produtor de eventos ?"
+  Nos três casos o assistente mostrou a orientação "Fazer o CPF", mas a pessoa
+  queria saber se o CPF é exigido para concorrer a uma vaga, e isso não consta na
+  nossa fonte. Uma pessoa também não achou útil a orientação de Jovem Aprendiz,
+  aberta pela navegação por categorias.
+- Melhoria feita a partir do teste: adicionamos as palavras-chave
+  "concorrer a vaga", "candidatar a vaga" e "cpf e obrigatorio" na orientação
+  "Registro do contrato de trabalho (carteira assinada)". Uma pergunta sobre
+  documentos para concorrer a uma vaga, que antes não era encontrada, passou a
+  ser encontrada.
 
 ## Limitações
 - O assistente só responde com o que está na base de conhecimento (12 orientações).

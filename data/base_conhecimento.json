@@ -47,7 +47,7 @@
     "id": 5,
     "categoria": "Trabalho",
     "titulo": "Registro do contrato de trabalho (carteira assinada)",
-    "palavras_chave": ["carteira assinada", "contrato de trabalho", "clt", "registro na carteira", "primeiro emprego", "assinar carteira"],
+    "palavras_chave": ["carteira assinada", "contrato de trabalho", "clt", "registro na carteira", "primeiro emprego", "assinar carteira", "concorrer a vaga", "candidatar a vaga", "cpf e obrigatorio"],
     "resposta": "Desde 24 de setembro de 2019, a carteira de trabalho em papel não é mais necessária para a contratação na grande maioria dos casos. Basta informar o número do CPF. A empresa registra o contrato pelo eSocial e esse envio vale como assinatura da carteira. Você pode ver o contrato na Carteira de Trabalho Digital 48 horas depois do envio feito pela empresa. Se algo estiver errado, peça para a empresa corrigir. O número da Carteira de Trabalho Digital é o mesmo do seu CPF. Ela vale para comprovar o vínculo de trabalho, mas não vale como documento de identificação.",
     "documentos": ["Número do CPF"],
     "onde": "Na empresa que contrata (ela faz o registro pelo eSocial) e na Carteira de Trabalho Digital (aplicativo ou gov.br)",
