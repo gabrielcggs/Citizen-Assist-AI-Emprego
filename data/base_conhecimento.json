@@ -3,7 +3,7 @@
     "id": 1,
     "categoria": "Trabalho",
     "titulo": "Carteira de Trabalho Digital",
-    "palavras_chave": ["carteira de trabalho", "carteira de trabalho digital", "ctps", "carteira digital"],
+    "palavras_chave": ["carteira de trabalho", "carteira de trabalho digital", "ctps", "carteira digital", "documento profissional"],
     "resposta": "A Carteira de Trabalho e Previdência Social (CTPS) é o documento que registra a vida profissional do trabalhador. Ela é emitida de forma prioritária no formato digital. Qualquer pessoa inscrita no CPF pode obter a sua. Você precisa do número do CPF e de uma conta gov.br. O serviço é gratuito e o atendimento é imediato. Em caso de dúvidas, ligue para a Central 158.",
     "documentos": ["Número do CPF", "Conta gov.br"],
     "onde": "Aplicativo Carteira de Trabalho Digital (Android e iOS) ou pela internet, no serviço 'Obter a Carteira de Trabalho' do gov.br",
